@@ -265,5 +265,12 @@ background-color: black;
     margin-bottom: 10px;
     margin-right: 300px;
   }
+   .footer {
+      background-color: black;
+        color: aliceblue;
+        text-align: center;
+        font-size: 25px;
+        width:610px;
+      }
 }
 
