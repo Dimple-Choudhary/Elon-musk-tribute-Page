@@ -10,6 +10,16 @@
 
 }
 
+/* /* block1{
+  width: 60%;
+  height: 1591px;
+}
+block2{ width: 50%;
+  height: 1589px; 
+  block3[
+ width: 50%;
+  height: 1589px;
+  ] */
 
 #block1 {
   background-color: rgb(12, 6, 56);
@@ -66,6 +76,10 @@ img {
   height: 40px;
   background-color: rgb(106, 173, 5);
   border-radius: 5%;
+  position: relative;
+  top: 11px;
+  left: 300px;
+
 }
 
 button a {
@@ -255,3 +269,11 @@ background-color: black;
 
 
 }
+@media screen and (max-width: 520px) {
+  #myBtn {
+
+    margin-bottom: 10px;
+    margin-right: 300px;
+  }
+}
+
